@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2024
-* Wen, J.H.+, Sorscher, B.+, _Aery Jones, E.A._, Ganguli, S., Giocomo, L.M. (2024, October). One-shot entorhinal maps enable flexible navigation in novel environments. Nature 635, 943-950. (+equal contribution)
+* Wen, J.H.+, Sorscher, B.+, _Aery Jones, E.A._, Ganguli, S., Giocomo, L.M. (2024, October). One-shot entorhinal maps enable flexible navigation in novel environments. [Nature](https://www.nature.com/articles/s41586-024-08034-3). (+equal contribution)
 * _Aery Jones, E.A._, Low, I.I.C., Cho, F.S., Giocomo, L.M. (2024, July). Entorhinal cortex represents task-relevant remote locations independent of CA1. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.23.604815v1).
 	* [Twitter paper thread](https://twitter.com/EmilyAeryJones/status/1816196271826428104)
 * Taubena, D.R.+, Jang, S.-S.+, Grone, B.+, Yip, O., _Aery Jones, E.A._, Blumenfeld, J., Liang, Z., Koutsodendris, N., Rao, A., Ding, L., Zhang, A.R., Hao, Y., Xu, Q., Yoon, S.Y., Huang, Y. (2024, June). Neuronal APOE4-induced Early Hippocampal Network Hyperexcitability in Alzheimer’s Disease Pathogenesis. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.28.555153v3). (+equal contribution)
