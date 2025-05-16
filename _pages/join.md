@@ -3,9 +3,9 @@ layout: archive
 title: "Join Our Team"
 permalink: /join/
 author_profile: true
-redirect_from:
-  * /vacancies
-  * /openings
+redirect_from: 
+  - /vacancies
+  - /openings
 ---
 
 {% include base_path %}
