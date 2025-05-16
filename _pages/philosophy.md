@@ -1,11 +1,11 @@
-***
+---
 layout: archive
 title: "Philosophy"
 permalink: /philosophy/
 author_profile: true
 redirect_from: 
   - /lab-philosophy
-***
+---
 
 {% include base_path %}
 
