@@ -34,10 +34,10 @@ I'll be accepting rotation students in all three quarters and have openings for 
             <img src="{{ site.url }}{{ site.baseurl }}/images/implant_assembly.gif" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2019paper.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/2019paper.jpg" alt="Slide 5" />
         </div>     
 		<div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2021paper.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/2021paper.jpg" alt="Slide 6" />
         </div>  		
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/nlc.gif" alt="Slide 7" />

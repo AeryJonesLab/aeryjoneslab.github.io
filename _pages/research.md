@@ -39,12 +39,10 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
   </div>
 </div>
 
-![implant assembly](../images/implant_assembly.gif)
-
 |        |         |
 | ------ | ------- |
 | automated mazes to assess spatial memory | in vivo freely moving electrophysiology using custom-designed [chronic Neuropixels implants](/resources/) |
-|  | ![Neuropixels implants](../images/chronic_npx_mouse.png)  |
+| ![Xmaze](../images/Xmaze.png) | ![Neuropixels implants](../images/chronic_npx_mouse.png)  |
 | recording simultaneously from multiple regions to interrogate the hippocampal-entorhinal circuit  | spatial representations by single cells    |
 | ![electrode traces](../images/histology.png) | ![cell types](../images/cells.png)    |
 | measurements of how inputs to the hippocampus change over time, context, and memory task    | unbiased methods to assess how populations of neurons perform these computations    |
