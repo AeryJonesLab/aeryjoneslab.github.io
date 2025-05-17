@@ -3,15 +3,14 @@
    ========================================================================== */
 
 table {
-  margin-bottom: 1em;
+  margin-bottom: 0px;
   width: 100%;
-  font-family: $global-font-family;
-  font-size: $type-size-6;
   border-collapse: collapse;
   border: 1px solid var(--global-border-color);
+  table-layout: fixed;
 
   & + table {
-    margin-top: 1em;
+    margin-top: 0px;
   }
 }
 

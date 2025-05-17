@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-<p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Dynamics of Hippocampal Inputs in Learning and Disease
-<br><br>
+## Dynamics of Hippocampal Inputs in Learning and Disease
+
+<p style="text-align: center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/circuit.png">
 </p>
 
@@ -23,7 +24,7 @@ We rely on spatial memory daily, from remembering your favorite coffee shop loca
 Our research dissects how the gating of inputs to the hippocampus adapts over learning and is altered in aging and Alzheimer's disease, affecting flexibility and stability of spatial representations and therefore memory, with the goal of identifying novel therapies for neurodegeneration.
 
 
-<p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Techniques</p>
+## Techniques
 
 {% include research_images.html %}
 
@@ -41,8 +42,8 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
 
 |        |         |
 | ------ | ------- |
-| automated mazes to assess spatial memory | in vivo freely moving electrophysiology using custom-designed [chronic Neuropixels implants](/resources/) |
-| ![Xmaze](../images/Xmaze.png) | ![Neuropixels implants](../images/chronic_npx_mouse.png)  |
+| automated mazes to assess spatial memory ![Xmaze](../images/Xmaze.png) | in vivo freely moving electrophysiology using custom-designed [chronic Neuropixels implants](/resources/) ![Neuropixels implants](../images/chronic_npx_mouse.png) |
+|  |   |
 | recording simultaneously from multiple regions to interrogate the hippocampal-entorhinal circuit  | spatial representations by single cells    |
 | ![electrode traces](../images/histology.png) | ![cell types](../images/cells.png)    |
 | measurements of how inputs to the hippocampus change over time, context, and memory task    | unbiased methods to assess how populations of neurons perform these computations    |
