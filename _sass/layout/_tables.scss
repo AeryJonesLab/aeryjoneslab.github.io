@@ -6,7 +6,7 @@ table {
   margin-bottom: 0px;
   width: 100%;
   border-collapse: collapse;
-  border: 10px solid var(--global-border-color);
+  border: 15px solid var(--global-border-color);
   table-layout: fixed;
 
   & + table {
@@ -23,17 +23,18 @@ th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 10px solid var(--global-border-color);
+  border-right: 15px solid var(--global-border-color);
   background-color: var(--global-table-background-color);
 }
 
 td {
   padding: 0.5em;
-  border-bottom: 10px solid var(--global-border-color);
-  border-right: 10px solid var(--global-border-color);
+  border-bottom: 15px solid var(--global-border-color);
+  border-right: 15px solid var(--global-border-color);
   background-color: var(--global-table-background-color);
 }
 
 tr, td, th {
   vertical-align: top;
+  horizontal-align: center;
 }

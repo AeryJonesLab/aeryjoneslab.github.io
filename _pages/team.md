@@ -9,4 +9,10 @@ author_profile: true
 
 ![]({{ site.url }}{{ site.baseurl }}/images/team/EmilyAeryJones.jpg){: style="height: 200px; float: left; margin-right: 10px" }
 **Dr. Emily A. Aery Jones**
+
 Assistant Professor
+
+![]({{ site.url }}{{ site.baseurl }}/images/team/profile.png){: style="height: 200px; float: left; margin-right: 10px" }
+**We're recruiting!**
+
+[Join our team](/join/)
