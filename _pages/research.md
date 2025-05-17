@@ -14,15 +14,28 @@ We rely on spatial memory daily, from remembering your favorite coffee shop loca
 
 **Our research seeks to answer three questions:**
 
-	**(1) How can the hippocampal circuit perform these distinct computations?**
+1. How can the hippocampal circuit perform these distinct computations?
 	
-	**(2) How is the separation of these computations disrupted by neurodegeneration?**
+2. How is the separation of these computations disrupted by neurodegeneration?
 	
-	**(3) What are the molecular and cellular mechanisms of neurodegeneration that impair this separation?**
+3. What are the molecular and cellular mechanisms of neurodegeneration that impair this separation?
 	
 Our research dissects how the gating of inputs to the hippocampus adapts over learning and is altered in aging and Alzheimer's disease, affecting flexibility and stability of spatial representations and therefore memory, with the goal of identifying novel therapies for neurodegeneration.
 
 ## Techniques
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Column 1
+    </div>
+    <div class="col">
+      Column 2
+    </div>
+  </div>
+</div>
+
+
 |        |         |
 | ------ | ------- |
 | automated mazes to assess spatial memory | in vivo freely moving electrophysiology using custom-designed [chronic Neuropixels implants](/resources/) |
@@ -31,10 +44,12 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
 | ![electrode traces](../images/histology.png) | ![cell types](../images/cells.png)    |
 | measurements of how inputs to the hippocampus change over time, context, and memory task    | unbiased methods to assess how populations of neurons perform these computations    |
 | ![LFP traces](../images/traces.png) | ![population coding](../images/assemblies.png)        |
-|        |         |
+| [novel models of late-onset Alzheimer's disease](https://www.model-ad.org/)       | closed-loop optogenetic manipulations to control input gating at appropriate times        |
+| ![model mice](../images/mice.jpg)       | ![inhibitory neurons](../images/DREADDS_histology.png)        |
+| ex vivo and in vivo manipulations of identified druggable targets       |         |
 
- * [novel models of late-onset Alzheimer's disease](https://www.model-ad.org/)
-![model mice](../images/mice.jpg)
- * closed-loop optogenetic manipulations to control input gating at appropriate times
-![inhibitory neurons](../images/DREADDS_histology.png)
- * ex vivo and in vivo manipulations of identified druggable targets
+ * 
+
+ * 
+
+ * 
