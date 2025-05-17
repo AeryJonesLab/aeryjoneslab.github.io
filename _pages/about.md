@@ -9,12 +9,12 @@ redirect_from:
 carousels:
   - images: 
     - image: /images/carousel/HSFIII.jpg
-    - image: /images/carousel/Xmaze.gif
+    - image: /images/carousel/Xmaze_border.gif
     - image: /images/carousel/DREADDS_histology.png
-    - image: /images/carousel/implant_assembly.gif
+    - image: /images/carousel/implant_assembly_border.gif
     - image: /images/carousel/2019paper.jpg
     - image: /images/carousel/2021paper.jpg
-    - image: /images/carousel/nlc.gif
+    - image: /images/carousel/nlc_border.gif
 ---
 
 <p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Welcome to the Aery Jones Lab!
