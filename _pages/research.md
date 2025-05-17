@@ -7,11 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Dynamics of Hippocampal Inputs in Learning and Disease
-![Hippocampal circuit](../images/circuit.png)
-
-
 <p style="text-align: center; font-weight: bold; font-size: 24px">Dynamics of Hippocampal Inputs in Learning and Disease
+<br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/circuit.png">
 </p>
 
