@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Dynamics of Hippocampal Inputs in Learning and Disease
 
 <p style="text-align: center">
@@ -32,4 +34,4 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
 | recording simultaneously from multiple regions to interrogate the hippocampal-entorhinal circuit ![electrode traces](../images/histology.png) | spatial representations by single cells ![cell types](../images/cells.png)   |
 | measurements of how inputs to the hippocampus change over time, context, and memory task ![LFP traces](../images/traces.png)   | unbiased methods to assess how populations of neurons perform these computations  ![population coding](../images/assemblies.png)   |
 | [novel models of late-onset Alzheimer's disease](https://www.model-ad.org/) ![model mice](../images/mice.jpg)      | closed-loop optogenetic manipulations to control input gating at appropriate times ![inhibitory neurons](../images/DREADDS_histology.png)       |
-| ex vivo and in vivo manipulations of identified druggable targets       ![inhibitory neurons](../images/molecular.png) |       |
+| ex vivo and in vivo manipulations of identified druggable targets           ![inhibitory neurons](../images/molecular.png) |       |
