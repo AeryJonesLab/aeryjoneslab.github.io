@@ -7,7 +7,7 @@ author_profile: true
 
 ## Dynamics of Hippocampal Inputs in Learning and Disease
 
-<p style="text-align: center>
+<p style="text-align: center">
 <img src="{{ site.url }}{{ site.baseurl }}/images/circuit.png">
 </p>
 
@@ -26,28 +26,10 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
 
 ## Techniques
 
-{% include research_images.html %}
-
-
-<div class="container">
-  <div class="row">
-    <div class="col">
-      Column 1
-    </div>
-    <div class="col">
-      Column 2
-    </div>
-  </div>
-</div>
-
 |        |         |
 | ------ | ------- |
 | automated mazes to assess spatial memory ![Xmaze](../images/Xmaze.png) | in vivo freely moving electrophysiology using custom-designed [chronic Neuropixels implants](/resources/) ![Neuropixels implants](../images/chronic_npx_mouse.png) |
-|  |   |
-| recording simultaneously from multiple regions to interrogate the hippocampal-entorhinal circuit  | spatial representations by single cells    |
-| ![electrode traces](../images/histology.png) | ![cell types](../images/cells.png)    |
-| measurements of how inputs to the hippocampus change over time, context, and memory task    | unbiased methods to assess how populations of neurons perform these computations    |
-| ![LFP traces](../images/traces.png) | ![population coding](../images/assemblies.png)        |
-| [novel models of late-onset Alzheimer's disease](https://www.model-ad.org/)       | closed-loop optogenetic manipulations to control input gating at appropriate times        |
-| ![model mice](../images/mice.jpg)       | ![inhibitory neurons](../images/DREADDS_histology.png)        |
-| ex vivo and in vivo manipulations of identified druggable targets       | ![inhibitory neurons](../images/molecular.png)        |
+| recording simultaneously from multiple regions to interrogate the hippocampal-entorhinal circuit ![electrode traces](../images/histology.png) | spatial representations by single cells ![cell types](../images/cells.png)   |
+| measurements of how inputs to the hippocampus change over time, context, and memory task ![LFP traces](../images/traces.png)   | unbiased methods to assess how populations of neurons perform these computations  ![population coding](../images/assemblies.png)   |
+| [novel models of late-onset Alzheimer's disease](https://www.model-ad.org/) ![model mice](../images/mice.jpg)      | closed-loop optogenetic manipulations to control input gating at appropriate times ![inhibitory neurons](../images/DREADDS_histology.png)       |
+| ex vivo and in vivo manipulations of identified druggable targets       ![inhibitory neurons](../images/molecular.png) |       |
