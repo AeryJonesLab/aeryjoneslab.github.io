@@ -12,7 +12,7 @@ author_profile: true
 **Dr. Emily A. Aery Jones**
 
 Assistant Professor
-<br><br>
+<br><br><br><br><br><br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/team/profile.png){: style="height: 200px; float: left; margin-right: 10px" }
 **We're recruiting!**
