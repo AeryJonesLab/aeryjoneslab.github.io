@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Dynamics of Hippocampal Inputs in Learning and Disease
-<br>
+<br><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/circuit.png">
 </p>
 

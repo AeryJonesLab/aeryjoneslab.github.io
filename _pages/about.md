@@ -22,22 +22,25 @@ I'll be accepting rotation students in all three quarters and have openings for 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/HSFIII.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HSFIII.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/DREADDs_histology.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Xmaze.gif" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/traces.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/DREADDS_histology.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tets2.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/implant_assembly.gif" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sungodrat2.png" alt="Slide 5" />
-        </div>       
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2019paper.jpg" alt="Slide 5" />
+        </div>     
+		<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2021paper.jpg" alt="Slide 6" />
+        </div>  		
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/replayexamples2.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/nlc.gif" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
