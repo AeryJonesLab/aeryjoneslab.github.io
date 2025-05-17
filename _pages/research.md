@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
-<p style="text-align: center; font-weight: bold; font-size: 24px">Dynamics of Hippocampal Inputs in Learning and Disease
+<p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Dynamics of Hippocampal Inputs in Learning and Disease
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/circuit.png">
 </p>
@@ -25,7 +23,9 @@ We rely on spatial memory daily, from remembering your favorite coffee shop loca
 Our research dissects how the gating of inputs to the hippocampus adapts over learning and is altered in aging and Alzheimer's disease, affecting flexibility and stability of spatial representations and therefore memory, with the goal of identifying novel therapies for neurodegeneration.
 
 
-<p style="text-align: center; font-weight: bold; font-size: 24px">Techniques</p>
+<p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Techniques</p>
+
+{% include research_images.html %}
 
 
 <div class="container">
@@ -39,6 +39,7 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
   </div>
 </div>
 
+![implant assembly](../images/implant_assembly.gif)
 
 |        |         |
 | ------ | ------- |
@@ -50,4 +51,4 @@ Our research dissects how the gating of inputs to the hippocampus adapts over le
 | ![LFP traces](../images/traces.png) | ![population coding](../images/assemblies.png)        |
 | [novel models of late-onset Alzheimer's disease](https://www.model-ad.org/)       | closed-loop optogenetic manipulations to control input gating at appropriate times        |
 | ![model mice](../images/mice.jpg)       | ![inhibitory neurons](../images/DREADDS_histology.png)        |
-| ex vivo and in vivo manipulations of identified druggable targets       |         |
+| ex vivo and in vivo manipulations of identified druggable targets       | ![inhibitory neurons](../images/molecular.png)        |
