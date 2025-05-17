@@ -31,7 +31,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-base-color                 : #325E7B;
     --global-bg-color                   : #fff;
     --global-footer-bg-color            : #f2f3f3;
-    --global-border-color               : #FFFFFF;
+    --global-border-color               : #{$lighter-gray};
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
@@ -45,4 +45,5 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$light-gray};
 	--global-table-background-color     : #{$lighter-gray};
+	--global-table-border-color         : #FFFFFF;
 }
