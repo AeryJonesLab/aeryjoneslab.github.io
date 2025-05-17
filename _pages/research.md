@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Dynamics of Hippocampal Inputs in Learning and Disease
-<p style="text-align: center; font-weight: bold; color: #9D2235">Dynamics of Hippocampal Inputs in Learning and Disease
+<p style="text-align: center; font-weight: bold;">Dynamics of Hippocampal Inputs in Learning and Disease
 ![Hippocampal circuit](../images/circuit.png)
 </p>
 
@@ -25,6 +25,8 @@ We rely on spatial memory daily, from remembering your favorite coffee shop loca
 Our research dissects how the gating of inputs to the hippocampus adapts over learning and is altered in aging and Alzheimer's disease, affecting flexibility and stability of spatial representations and therefore memory, with the goal of identifying novel therapies for neurodegeneration.
 
 <p style="text-align: center;">Techniques</p>
+
+
 
 ## Techniques
 

@@ -21,13 +21,13 @@ I'll be accepting rotation students in all three quarters and have openings for 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/riptraces.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HSFIII.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tetwires2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/DREADDs_histology.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/histology2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/traces.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tets2.jpg" alt="Slide 4" />
@@ -48,6 +48,7 @@ I'll be accepting rotation students in all three quarters and have openings for 
     <span class="sr-only">Next</span>
   </a>
 </div>
+
 
 
 **Funding**

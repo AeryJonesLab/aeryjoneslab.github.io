@@ -22,7 +22,7 @@ repository               : "aeryjoneslab/aeryjoneslab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.jpg"
+  avatar           : "logo.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Department of Neurobiology and Medicine Institute for Neuroscience Discovery (UM-MIND)"
