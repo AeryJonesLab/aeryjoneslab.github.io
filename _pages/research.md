@@ -8,8 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Dynamics of Hippocampal Inputs in Learning and Disease
-<p style="text-align: center; font-weight: bold;">Dynamics of Hippocampal Inputs in Learning and Disease
 ![Hippocampal circuit](../images/circuit.png)
+
+
+<p style="text-align: center; font-weight: bold; font-size: 24px">Dynamics of Hippocampal Inputs in Learning and Disease
+<img src="{{ site.url }}{{ site.baseurl }}/images/circuit.png">
 </p>
 
 We rely on spatial memory daily, from remembering your favorite coffee shop location to learning a new hiking trail. To do so, our brains must encode representations of new information (e.g. the location of a coffee shop), adapt to incorporate new information as we learn, and consolidate old information for future retrieval. Studying the underlying physiology of spatial memory provides insights into how a single circuit can be plastic yet stable enough to consistently perform such varied, complex functions. Moreover, impaired spatial memory is one of the first symptoms of Alzheimer’s disease, thus understanding its underlying circuit mechanism is critical for developing treatments. Spatial memory is commonly studied in CA1, the major output region of the hippocampus. CA1 encodes and updates new information, driven by inputs from medial entorhinal cortex (MEC), and retrieves and consolidates old information, driven by inputs from hippocampal area CA3. Inputs from CA3 and MEC could interfere with each other if they arrive at overlapping times, impairing memory, and must be precisely gated to prevent this. However, the dynamics and mechanisms of this gating are unknown, as are the mechanisms by which Alzheimer's risk genes might lead to insufficient gating and thus memory interference.
@@ -24,11 +27,9 @@ We rely on spatial memory daily, from remembering your favorite coffee shop loca
 	
 Our research dissects how the gating of inputs to the hippocampus adapts over learning and is altered in aging and Alzheimer's disease, affecting flexibility and stability of spatial representations and therefore memory, with the goal of identifying novel therapies for neurodegeneration.
 
-<p style="text-align: center;">Techniques</p>
 
+<p style="text-align: center; font-weight: bold; font-size: 24px">Techniques</p>
 
-
-## Techniques
 
 <div class="container">
   <div class="row">
