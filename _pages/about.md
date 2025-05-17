@@ -19,7 +19,7 @@ Our lab will dissect how the hippocampal circuit can flexibly perform distinct c
 
 I'll be accepting rotation students in all three quarters and have openings for a research technician and postdoc. Come [join our lab](/join)!
 
-{% include carousel.html height="300" unit="%" duration="7" number="1" %}
+{% include carousel.html height="300" unit="px" duration="20" number="1" %}
 
 
 **Funding**
