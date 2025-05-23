@@ -14,7 +14,7 @@ We are currently recruiting a lab technician, a PhD student, and a postdoc. All 
 
 **Lab Technician**
 
-Job ad to follow
+We're hiring a Laboratory Research Assistant to help with lab management and data collection. Please apply here: https://umb.taleo.net/careersection/jobdetail.ftl?job=250000IZ&lang=en.
 
 **PhD Students**
 
