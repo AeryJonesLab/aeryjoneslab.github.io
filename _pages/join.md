@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-We are currently recruiting a lab technician, a PhD student, and a postdoc. All positions would start January 2026 at the earliest.
+We are currently recruiting a lab technician, a PhD student, and a postdoc. All positions would start January 2026 at the earliest. Due to the number of applications I receive, please show me that you've read this page by referring to me by my full last name (Dr. Aery Jones) in your initial correspondence.
 
 **Lab Technician**
 
