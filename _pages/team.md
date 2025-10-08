@@ -20,6 +20,12 @@ Assistant Professor
 Laboratory Research Assistant
 <br><br><br><br><br><br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/team/KatieHummel.jpeg){: style="height: 200px; float: left; margin-right: 10px" }
+**Katie Hummel**
+
+Postdoc
+<br><br><br><br><br><br>
+
 ![]({{ site.url }}{{ site.baseurl }}/images/team/profile.png){: style="height: 200px; float: left; margin-right: 10px" }
 **We're recruiting!**
 
