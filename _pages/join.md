@@ -18,8 +18,8 @@ We're not currently recruiting technicians.
 
 **PhD Students**
 
-We'll be accepting rotation students for all 3 quarters of the 2025-2026 academic year.
+We'll be accepting rotation students for the spring and summer quarters of the 2025-2026 academic year. Please email Emily to set up a meeting to discuss potential projects.
 
 **Postdoc**
 
-Please email Emily with your CV and a cover letter explaining your past research, future research interests, and why you're interested in our lab.
+Please email Emily with (1) your CV, (2) a cover letter explaining your past research, future research interests, and why you're interested in our lab, and (3) contacts for at least two references
