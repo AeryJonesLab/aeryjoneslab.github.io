@@ -24,7 +24,7 @@ redirect_from:
 * We value failure as part of learning. I invite everyone to take risks and will commend you even if it fails. We value the process over the product and resilience over results.
 * We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
 
-![SAFE Labs logo]({{ site.url }}{{ site.baseurl }}/images/images/SAFE_Labs_Logo.png){: style="height: 200px; float: center;}
+![SAFE Labs logo]({{ site.url }}{{ site.baseurl }}/images/SAFE_Labs_Logo.png){: style="height: 200px; float: center;}
 
 Our lab manual implements the 33 guidelines outlined in the [SAFE Labs Handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook). The following are the segments that must be publicly documented:
 
