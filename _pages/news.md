@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **April 2026**
+
 Two papers and a grant!
 * Emily's [first author paper in Nature Neuroscience](https://www.nature.com/articles/s41593-026-02232-0)
 * Our [collaborative paper in Nature Aging](https://www.nature.com/articles/s43587-026-01096-0)

@@ -31,6 +31,8 @@ I'm accepting rotation students and have openings for a postdoc. Come [join our 
 {% include carousel.html height="50" unit="%" duration="20" number="1" %}
 
 
+
+
 **Funding**
 
-![NINDS R00](../images/ninds.jpg)     ![NIH FIRST](../images/first.jpg)     ![UMSOM Pivot Strategic Investment Initiative and Department of Neurobiology](../images/umsom.png)
+![NINDS R00](../images/ninds.jpg)          ![NIH FIRST](../images/first.jpg)          ![UMSOM Pivot Strategic Investment Initiative and Department of Neurobiology](../images/umsom.png)
