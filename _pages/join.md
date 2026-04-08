@@ -18,7 +18,7 @@ We're not currently recruiting technicians.
 
 **PhD Students**
 
-The lab accepts students from the Neuroscience and Molecular Medicine graduate programs. We'll be accepting rotation students for the spring and summer quarters of the 2025-2026 academic year. Please email Emily to set up a meeting to discuss potential projects.
+The lab accepts students from the Neuroscience and Molecular Medicine graduate programs. Please email Emily to set up a meeting to discuss potential projects.
 
 **Postdoc**
 
