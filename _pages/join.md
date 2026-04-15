@@ -23,3 +23,7 @@ The lab accepts students from the Neuroscience and Molecular Medicine graduate p
 **Postdoc**
 
 Please email Emily with (1) your CV, (2) a cover letter explaining your past research, future research interests, and why you're interested in our lab, and (3) contacts for at least two references.
+
+**High School and Undergraduate Students**
+
+We cannot accept high school interns due to safety concerns. We're not currently recruiting undergraduate students.
