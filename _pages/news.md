@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-**June 2026**
-* Jon joins us for his summer rotation. Welcome!
-
 **April 2026**
 
 Two papers and a grant!
