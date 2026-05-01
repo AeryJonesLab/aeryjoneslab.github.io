@@ -12,6 +12,7 @@ author_profile: true
 	* [data](https://dandiarchive.org/dandiset/001701)
 	* [code](https://github.com/emilyasterjones/AeryJones_2025)
 	* [BlueSky paper thread](https://bsky.app/profile/emilyaeryjones.bsky.social/post/3migwu2tvyc2a)
+	* [Medical Xpress coverage](https://medicalxpress.com/news/2026-04-moments-reveal-brain-links-distant.html)
 * Taubena, D.R.+, Jang, S.-S.+, Grone, B.+, Yip, O., _Aery Jones, E.A._, Blumenfeld, J., Liang, Z., Koutsodendris, N., Rao, A., Ding, L., Zhang, A.R., Hao, Y., Xu, Q., Yoon, S.Y., Huang, Y. (2026, April). Neuronal APOE4-induced Early Hippocampal Network Hyperexcitability in Alzheimer’s Disease Pathogenesis. [Nature Aging](https://www.nature.com/articles/s43587-026-01096-0). (+equal contribution)
 
 ## 2024

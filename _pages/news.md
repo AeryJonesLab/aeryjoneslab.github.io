@@ -17,6 +17,9 @@ Two papers and a grant!
 * Our [collaborative paper in Nature Aging](https://www.nature.com/articles/s43587-026-01096-0)
 * The lab receives its first internal competitive funding through the [UMB Pivot Strategic Investment Initiative](https://www.umaryland.edu/president/letters-to-the-umb-community/announcing-the-pivot-strategic-investment-initiative.php)
 
+**March 2026**
+* The lab is awarded its first external non-competitive funding, an NINDS R00.
+
 **January 2026**
 * The lab opens.
 
