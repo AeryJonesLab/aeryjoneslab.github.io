@@ -32,7 +32,7 @@ Protocols to chronically, recoverably implant single Neuropixels 1.0 probes or d
 
 
 ## DEI
-[Two tools](https://github.com/emilyasterjones/bioRxiv_speaker_finder) to assist with some of my own [diversity & inclusion goals](/dei/)
+[Two tools](https://github.com/emilyasterjones/bioRxiv_speaker_finder) to assist with some of my own [diversity & inclusion goals](/philosophy/)
 1. Speaker finder: given a list of keywords, searches bioRxiv & Pubmed and returns the authors with the most publications that match that keyword
 2. Citation overrepresentation tool: given a bibliography, returns which labs, institutions, & journals you cite the most
 
