@@ -12,18 +12,34 @@ redirect_from:
 
 Due to the number of applications I receive, please show me that you've read this page by using my full last name (Dr. Aery Jones) in your initial correspondence.
 
-**Lab Technician**
+### Lab Technician
 
 We're not currently recruiting technicians.
 
-**PhD Students**
+### PhD Students
 
 The lab accepts students from the Neuroscience and Molecular Medicine graduate programs. Please email Emily to set up a meeting to discuss potential projects.
 
-**Postdoc**
+### Postdoc
 
 Please email Emily with (1) your CV, (2) a cover letter explaining your past research, future research interests, and why you're interested in our lab, and (3) contacts for at least two references.
 
-**High School and Undergraduate Students**
+**Qualifications:**
+
+_Required:_
+* PhD in neuroscience, biology, engineering, or related field (already earned or anticipated within the next year)
+* At least 1 first-author paper or preprint from your thesis work (or anticipated prior to graduation)
+* Prior experience with in vivo or ex vivo neural recordings of some kind (any technique, any animal model)
+* Enthusiastic about the lab's research topics and the prospect of joining a new lab
+* Detail-oriented, organized, and excels at planning and project management
+* Agrees to uphold the [lab's philosophy](/philosophy)
+
+_Bonus Points:_
+* History of fellowship applications, ideally successful
+* Prior experience with our experimental techniques: in vivo freely moving electrophysiological recordings in rodents, hippocampal physiology, and/or optogenetics, aging and/or Alzheimer's disease models and behaviors
+* Prior experience with our analytical techniques: single unit analysis, local field potential analysis, unsupervised behavioral quantification, machine learning algorithms for neural data statistics
+* Fluent in Python
+
+### High School and Undergraduate Students
 
 We cannot accept high school interns due to safety concerns. We're not currently recruiting undergraduate students.
