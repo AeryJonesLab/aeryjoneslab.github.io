@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Due to the number of applications I receive, please show me that you've read this page by using my full last name (Dr. Aery Jones) in your initial correspondence.
+Due to the number of applications the lab receives, please show that you've read this page by using Emily's full last name (Dr. Aery Jones) in your initial correspondence.
 
 ## Lab Technician
 
