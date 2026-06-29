@@ -31,16 +31,16 @@ We're currently accepting rotation students. We'll have openings for a postdoc a
 
 
 **Funding**<br>
-![NINDS]({{ site.url }}{{ site.baseurl }}/images/ninds.jpg){: style="float: left; margin-right: 10px" }
+![Logo of NINDS]({{ site.url }}{{ site.baseurl }}/images/ninds.jpg){: style="float: left; margin-right: 10px" }
 NINDS R00
 <br><br><br><br><br><br>
 
-![NIH FIRST]({{ site.url }}{{ site.baseurl }}/images/first.jpg){: style="float: left; margin-right: 10px" }
+![Logo of NIH FIRST]({{ site.url }}{{ site.baseurl }}/images/first.jpg){: style="float: left; margin-right: 10px" }
 NIH Common Fund's FIRST grant
 <br><br><br><br><br><br>
 
-![University of Maryland, Baltimore]({{ site.url }}{{ site.baseurl }}/images/umb.png){: style="float: left; margin-right: 10px" }
+![Logo of University of Maryland, Baltimore]({{ site.url }}{{ site.baseurl }}/images/umb.png){: style="float: left; margin-right: 10px" }
 University of Maryland, School of Medicine:<br>
-Medicine Institute for Neuroscience Discovery (UM-MIND),<br>
+UM-MIND,<br>
 Department of Neurobiology,<br>
 and Pivot Strategic Investment Initiative

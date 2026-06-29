@@ -18,12 +18,6 @@
     {% if author.name %}<h3 class="author__name">{{ author.name }}</h3>{% endif %}
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-	{% if author.employer %}
-        <li><a href="{{ author.employer_uri }}"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
-      {% endif %}
-	  {% if author.location %}
-        <li><a href="{{ author.location_uri }}"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</a></li>
-      {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
