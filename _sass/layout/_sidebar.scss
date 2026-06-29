@@ -233,6 +233,10 @@
       display: none;
     }
   }
+  
+  li {
+	overflow-wrap: anywhere;
+	}
 
   a {
     display: block;
