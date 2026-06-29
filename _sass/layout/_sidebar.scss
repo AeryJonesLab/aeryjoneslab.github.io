@@ -149,6 +149,9 @@
 }
 
 .author__urls-wrapper {
+  padding-left: 15px;
+  padding-right: 25px; 
+
   position: relative;
   display: table-cell;
   vertical-align: middle;
@@ -165,6 +168,9 @@
 
   @include breakpoint($large) {
     display: block;
+	width: 100%;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   button {
