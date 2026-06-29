@@ -23,7 +23,7 @@ The Aery Jones lab launched in January 2026 in the [Department of Neurobiology](
 Our lab dissects how the hippocampal circuit can flexibly perform distinct computations to support spatial memory and how these computations degrade in aging and Alzheimer's disease. Learn more on our [research](/research), [publications](/publications), and [resource](/resources) pages.
 
 
-We're accepting rotation students and have openings for a postdoc. Come [join our lab](/join)!
+We're currently accepting rotation students. We'll have openings for a postdoc and a technician starting in mid-2027. Come [join our lab](/join)!
 
 {% include carousel.html height="50" unit="%" duration="20" number="1" %}
 
@@ -31,6 +31,16 @@ We're accepting rotation students and have openings for a postdoc. Come [join ou
 
 
 **Funding**
-<ul>
-<li>![NINDS R00](../images/ninds.jpg)</li>          <li>![NIH FIRST](../images/first.jpg)</li>          <li>![UMSOM Pivot Strategic Investment Initiative and Department of Neurobiology](../images/umsom.png)</li>
-</ul>
+![NINDS](../images/ninds.jpg)
+NINDS R00
+<br><br><br><br><br><br>
+
+![NIH FIRST](../images/first.jpg)
+NIH Common Fund's Faculty Institutional Recruitment for Sustainable Transformation
+<br><br><br><br><br><br>
+
+![UMSOM](../images/umsom.png)
+University of Maryland, School of Medicine:<br>
+Medicine Institute for Neuroscience Discovery (UM-MIND)<br>
+Department of Neurobiology<br>
+and Pivot Strategic Investment Initiative

@@ -9,12 +9,13 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 
 $background                 : #474747;
+$background-mid           : mix(#fff, $background, 20%);
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
 $link                       : #77b4c7;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#000, $link, 25%);
+$link-dark                  : mix(#fff, $link, 25%);
+$link-light                 : mix(#fff, $link, 25%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -50,8 +51,8 @@ html[data-theme="dark"] {
     --global-masthead-link-color-hover  : #{$background-light};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$background-lighter};
-	--global-header-color				: #($info-color);
-	--global-table-background-color     : #{$background-light};
+    --global-thead-color                : #{$background-mid};
+	--global-header-color				: #{$info-color};
+	--global-table-background-color     : #{$background-mid};
 	--global-table-border-color         : #{$background};
 }
