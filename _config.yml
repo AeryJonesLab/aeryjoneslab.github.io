@@ -27,7 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Department of Neurobiology and Medicine Institute for Neuroscience Discovery (UM-MIND)"
   location         : "670 W Baltimore St, Baltimore, MD 21201"
+  location_uri     : "https://maps.app.goo.gl/y5ZEJ5BDmPrR1ZY4A"
   employer         : "University of Maryland, Baltimore"
+  employer_uri     : "https://www.medschool.umaryland.edu/"
   uri              : # URL
   email            : "eaeryjones@som.umaryland.edu" 
 

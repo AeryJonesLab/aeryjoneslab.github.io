@@ -30,17 +30,16 @@ We're currently accepting rotation students. We'll have openings for a postdoc a
 
 
 
-**Funding**
-![NINDS](../images/ninds.jpg)
+**Funding**<br>
+![NINDS]({{ site.url }}{{ site.baseurl }}/images/ninds.jpg){: style="float: left; margin-right: 10px" }
 NINDS R00
 <br><br><br><br><br><br>
 
-![NIH FIRST](../images/first.jpg)
+![NIH FIRST]({{ site.url }}{{ site.baseurl }}/images/first.jpg){: style="float: left; margin-right: 10px" }
 NIH Common Fund's Faculty Institutional Recruitment for Sustainable Transformation
 <br><br><br><br><br><br>
 
-![UMSOM](../images/umsom.png)
-University of Maryland, School of Medicine:<br>
+![University of Maryland, School of Medicine]({{ site.url }}{{ site.baseurl }}/images/umsom.jpg){: style="float: left; margin-right: 10px" }
 Medicine Institute for Neuroscience Discovery (UM-MIND)<br>
 Department of Neurobiology<br>
 and Pivot Strategic Investment Initiative
