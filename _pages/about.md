@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to the Aery Jones Lab!"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -16,9 +16,6 @@ carousels:
     - image: /images/carousel/2021paper.jpg
     - image: /images/carousel/nlc_border.gif
 ---
-
-<p style="text-align: center; font-weight: bold; font-size: 24px; color: #9D2235">Welcome to the Aery Jones Lab!
-</p>
 
 The Aery Jones lab launched in January 2026 in the [Department of Neurobiology](https://neurobiology.umaryland.edu/) and [Medicine Institute for Neuroscience Discovery](https://www.medschool.umaryland.edu/um-mind/) at the University of Maryland, Baltimore.
 
