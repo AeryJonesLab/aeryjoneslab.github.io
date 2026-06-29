@@ -25,7 +25,7 @@ redirect_from:
 * We build bridges, not fences. We bring everyone into science. Our job is not to gatekeep people or their science from progressing. Our job is to see the best in every person and project and raise them up to their highest potential.
 
 <p style="text-align: center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/SAFE_Labs_Logo.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/SAFE_Labs_Logo.png" alt="SAFE Labs Logo">
 </p>
 
 Our lab manual implements the 33 guidelines outlined in the [SAFE Labs Handbook](https://github.com/SAFE-Labs-Docs/Lab-Handbook). The following are the segments that must be publicly documented:
