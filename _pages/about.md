@@ -23,7 +23,7 @@ The Aery Jones lab launched in January 2026 in the [Department of Neurobiology](
 Our lab dissects how the hippocampal circuit can flexibly perform distinct computations to support spatial memory and how these computations degrade in aging and Alzheimer's disease. Learn more on our [research](/research), [publications](/publications), and [resource](/resources) pages.
 
 
-We're currently accepting rotation students. We'll have openings for a postdoc and a technician starting in mid-2027. Come [join our lab](/join)!
+We're currently accepting rotation students and are recruiting postdocs. We will have openings for a technician in spring 2027. Come [join our lab](/join)!
 
 {% include carousel.html height="50" unit="%" duration="20" number="1" %}
 
