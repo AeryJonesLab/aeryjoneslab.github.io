@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+**November 2026**
+* Katie will present at SfN, poster LL7, on Sunday, November 15 8am-12pm.
+
 **April 2026**
 
 Two papers and a grant!
