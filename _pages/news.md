@@ -10,6 +10,9 @@ author_profile: true
 **November 2026**
 * Katie will present at SfN, poster LL7, on Sunday, November 15 8am-12pm.
 
+**September 2026**
+* Emily is featured in The Transmitter's [Liftoff: New Lab Alerts](https://www.thetransmitter.org/liftoff-new-lab-alerts-early-career-neuroscientists/)
+
 **April 2026**
 
 Two papers and a grant!
